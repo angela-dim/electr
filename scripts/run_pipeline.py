@@ -4,8 +4,8 @@ y=7
 z= x - y
     
 
-def multiply_numbers(a, b):
-    return a * b
+def multiply_numbers(c, d):
+    return c * d
 
 #add numbers was here   
 
