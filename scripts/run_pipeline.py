@@ -1,7 +1,13 @@
 print("hi")
 x=6
 y=7
-z= x + y
+z= x - y
 
-def add_numbers(e, f):
-    return e + f        
+def add_numbers(a, b):
+    return a + b        
+
+def multiply_numbers(a, b):
+    return a * b
+
+#add numbers was here   
+
